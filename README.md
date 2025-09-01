@@ -5,6 +5,11 @@ On this page, I share my projects, studies, and learning experiences in **Python
 
 ---
 
+## 🌱 Objective
+My goal is to **learn continuously** and document my progress, making this profile a public portfolio of my development as a programmer.
+
+---
+
 ## 🛠 Technologies and Tools
 - Languages: Python, Java (in progress)  
 - Version control: Git / GitHub  
@@ -31,16 +36,11 @@ All projects include execution instructions and basic documentation.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brgaguilherme&show_icons=true&locale=en&layout=compact" alt="brgaguilherme" /></p>
 
----
 
-## 🌱 Objective
-My goal is to **learn continuously** and document my progress, making this profile a public portfolio of my development as a programmer.
-
----
 
 ## 📫 Contact
 - LinkedIn: (https://www.linkedin.com/in/guilherme-braga-)  
-- GitHub: [@your-username](https://github.com/your-username)  
+- GitHub: [@brgaguilherme](https://github.com/your-username)  
 - Email: bragaguilherme239@gmail.com
 
 
