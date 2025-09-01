@@ -1,6 +1,6 @@
 ## # Hello, I'm Guilherme Braga 👋
 
-I am an Information Technology student, starting my journey as a software developer.  
+I am an Technology student, starting my journey as a software developer.  
 On this page, I share my projects, studies, and learning experiences in **Python** and soon **Java**.
 
 ---
