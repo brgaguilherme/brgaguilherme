@@ -13,7 +13,7 @@ My goal is to **learn continuously** and document my progress, making this profi
 ## 🛠 Technologies and Tools
 - Languages: Python, Java (in progress)  
 - Version control: Git / GitHub  
-- IDEs: VS Code, PyCharm  
+- IDEs: VS Code, PyCharm, Intellij  
 - Methodologies: Basic programming best practices and version control principles
 
 ---
